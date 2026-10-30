@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-labelledby="title">
+  <title id="title">Olhary</title>
+  <rect x=".5" y=".5" width="879" height="219" rx="12" fill="#FAFBFC" stroke="#D8DEE4"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="118" fill="#17202B" font-size="68" font-weight="700" letter-spacing="-2">Olhary</text>
+    <text x="43" y="160" fill="#526170" font-size="22">olhary.ai</text>
+  </g>
+  
+      <g fill="none" stroke="#7C3AED" stroke-width="3">
+        <path d="M669 65L799 81L728 164Z"/>
+        <circle cx="669" cy="65" r="20" fill="#FAFBFC"/>
+        <circle cx="799" cy="81" r="28" fill="#FAFBFC"/>
+        <circle cx="728" cy="164" r="14" fill="#FAFBFC"/>
+      </g>
+      <circle cx="669" cy="65" r="6" fill="#7C3AED"/>
+      <circle cx="799" cy="81" r="10" fill="#7C3AED"/>
+</svg>
